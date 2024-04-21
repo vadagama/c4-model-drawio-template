@@ -16,7 +16,7 @@ Steps to import the stencil into draw.io:
 3. Click on `File` -> `Open Library` -> `Downloaded stencil file`
 
 ## Template
-This is a draw.io template for creating C4 Model diagrams  - [C4 Model Template](c4.drawio)
+This is a draw.io template for creating C4 Model diagrams  - [C4 Model Template](https://raw.githubusercontent.com/vadagama/c4-model-drawio-template/main/c4.drawio)
 
 The template includes the following:
 1. **context** - Context diagram
