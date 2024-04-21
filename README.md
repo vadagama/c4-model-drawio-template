@@ -59,4 +59,4 @@ Here are some examples of C4 diagrams created with this template:
 - [Food delivery system design](https://github.com/vadagama/food-delivery-system-design)
 - [Content sales system design](https://github.com/vadagama/content-sales-system-design)
 - [Industrial IoT system design](https://github.com/vadagama/industrial-iot-system-design)
-- [Integrated cognitive system design](https://github.com/vadagama/industrial-iot-system-design)
+- [Integrated cognitive system design](https://github.com/vadagama/integrated-cognitive-system-design)
