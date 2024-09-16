@@ -54,6 +54,13 @@ Minimalistic C4 diagram without descriptions and technology details. This diagra
 
 ![Minimalistic C4 diagram](images/minimal.png)
 
+![Deployment diagram](images/parameters.png)
+
+# C4 diagram parameters
+You can add parameters to the C4 diagrams to provide additional information about the elements. The parameters are displayed in the table below the diagram.
+Also you use the parameters to make the diagrams more interactive. For example, you can use the parameters to create a clickable diagram that navigates to the detailed diagrams.
+Finally, you can use the parameters to generate documentation from the diagrams or automate massive changes in the diagrams.
+
 # Examples 
 Here are some examples of C4 diagrams created with this template:
 - [Food delivery system design](https://github.com/vadagama/food-delivery-system-design)
